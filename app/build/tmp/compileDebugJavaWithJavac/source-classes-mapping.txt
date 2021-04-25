@@ -1,0 +1,2 @@
+com/ajeng/uts_19092002/BuildConfig.java
+ com.ajeng.uts_19092002.BuildConfig
